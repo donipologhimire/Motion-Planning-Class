@@ -2,12 +2,6 @@ THE ATTACHED DOCUMENTATION HAS MORE DETAILED DESCRIPTION AND PICTURES FROM THE P
 
 ###################### FOR TRAPEZOIDAL DECOMPOSITION: ########################
 
-STEP 1: UNZIP THE Submission_Team1 folder 
-STEP 2: GO to MAE195_ part 2 folder RUN THE trapezoidal_decomposition.m file
-STEP 3: If some tools are missing please install them, for example: Mapping Toolbox
-
-
-
 ############################# FOR BUG_1 ALGORITHM  ########################
 
 STEP 1: CHECK IF PYTHON3 is installed in your computer 
